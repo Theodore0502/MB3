@@ -1,11 +1,13 @@
-# Bùi Hữu Nghĩa
-# MSV: 22810310246
+# Họ và tên: Nguyễn Hoàng Thanh Tùng
+# MSV: 22810310248
 # Sử dụng State
 
-![](./imgs/1.jpg)
-![](./imgs/2.jpg)
-![](./imgs/3.jpg)
-![](./imgs/4.jpg)
-![](./imgs/5.jpg)
-![](./imgs/6.jpg)
-![](./imgs/7.jpg)
+![](./imgs/main.jpg)
+![](./imgs/green.jpg)
+![](./imgs/blue.jpg)
+![](./imgs/brown.jpg)
+![](./imgs/yellow.jpg)
+![](./imgs/red.jpg)
+![](./imgs/black.jpg)
+
+
